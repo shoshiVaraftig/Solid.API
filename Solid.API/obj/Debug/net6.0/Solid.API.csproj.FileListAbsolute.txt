@@ -1,0 +1,6 @@
+C:\Users\USER\Documents\תכנות-מבני נתונים\project_solid\Solid\Solid.API\obj\Debug\net6.0\Solid.API.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\תכנות-מבני נתונים\project_solid\Solid\Solid.API\obj\Debug\net6.0\Solid.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\תכנות-מבני נתונים\project_solid\Solid\Solid.API\obj\Debug\net6.0\Solid.API.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\תכנות-מבני נתונים\project_solid\Solid\Solid.API\obj\Debug\net6.0\Solid.API.AssemblyInfo.cs
+C:\Users\USER\Documents\תכנות-מבני נתונים\project_solid\Solid\Solid.API\obj\Debug\net6.0\Solid.API.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\תכנות-מבני נתונים\project_solid\Solid\Solid.API\obj\Debug\net6.0\Solid.API.MvcApplicationPartsAssemblyInfo.cache
